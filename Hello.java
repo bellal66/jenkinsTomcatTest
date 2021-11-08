@@ -3,5 +3,6 @@ public class Hello{
         for(int i=1; i<=10; i++){
             System.out.println("Hello wolrd "+i);
         }
+        System.out.println("And Thanks...");
     }
 }
